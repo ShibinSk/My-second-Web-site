@@ -488,6 +488,56 @@ width: 160px;
 
     
 }
+.end-part{
+    width: 100%;
+    height: 64px;
+    padding-top: 20px;
+}
+.line{
+    margin-top: 85px;
+
+}
+.end-part a{
+    margin-left: 43%;
+    margin-top: 23px;
+}
+.lines{
+    margin-bottom: 10px;
+    margin-top: 27px;
+
+}
+.search{
+    width: 100%;
+    height: 98px;
+    background-color: #343434;
+    color: white;
+    display: flex;
+    
+}
+.search i{
+    
+    height: 10px;
+    width: 50px;
+
+
+}
+.search input{
+    width: 176px;
+    height: 43px;
+    margin-left: 8px;
+    margin-top: 29px;
+    background: #343434;
+    border-color: #343434;
+    color: white;
+    border-radius: 10;
+
+}
+.icon{
+    width: 20px;
+    height: 30px;
+    margin-top: 40px;
+    margin-left: 78px;
+}
 
 
 
