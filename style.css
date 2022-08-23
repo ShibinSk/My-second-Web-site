@@ -1,3 +1,5 @@
+/* @import url(//db.onlinewebfonts.com/c/6a1755c7e65329236932f45c73c8e3ff?family=Ford+Antenna+Regular); */
+         
 *{
     margin: 0;
     padding: 0;
@@ -84,6 +86,355 @@
     position: relative;
     padding-top: 90px;
 }
+.therd-img{
+    margin-left: 40px;
+    height: auto;
+    width: 100%;
+    padding-top: 90px;
+}
+
+.content{
+    width: 100%;
+    height: auto;
+    margin-left: 100px;
+    padding-top: 90px;
+}
+.content span{
+    
+    font-size: 2.25rem;
+    line-height: 2.6875rem;
+    letter-spacing: 0;
+    color: #00095b;
+    font-family:Ford Antenna Medium Cnd;
+
+}.content p{
+    color: #4d4d4d;
+    text-transform: none;
+    padding-top: 10px;
+    font-family:Ford Antenna Medium Cnd;
+
+}.fifth-img{
+    margin-left: 40px;
+    height: auto;
+    width: 100%;
+    padding-top: 40px;
+}
+.content-2{
+    width: 100%;
+    height: auto;
+    margin-left: 100px;
+    padding-top: 90px;
+
+}
+.content-2{
+    font-size: 2rem;
+    line-height: 2.6875rem;
+    letter-spacing: 0;
+    color: #00095b;
+    font-family:Ford Antenna Medium Cnd;
+
+}
+.content-2 p{
+    color: #4d4d4d;
+    text-transform: none;
+    padding-top: 10px;
+    font-family:Ford Antenna Medium Cnd;
+   
+
+    font-size: medium;
+}
+a{
+    margin-left: 100px;
+    font-size: 1.2rem;
+    text-decoration: none;
+    font-family:Ford Antenna Medium Cnd;
+    color: #00095b;
+    padding-top: 20px;
+
+
+}
+.content-3{
+    width: auto;
+    height: auto;
+    font-size: 2rem;
+    line-height: 2.6875rem;
+    letter-spacing: 0;
+    color: #00095b;
+    font-family:Ford Antenna Medium Cnd;
+    padding-top: 80px;
+
+
+}
+.content-3 span{
+    
+    font-size: 2.25rem;
+    line-height: 2.6875rem;
+    letter-spacing: 0;
+    margin-left: 95px;
+   
+    
+}
+
+.content-3 p{
+    color: #4d4d4d;
+    text-transform: none;
+    padding-top: 10px;
+    font-family:Ford Antenna Medium Cnd;
+    margin-left: 95px;
+    font-size: medium;
+
+   
+    
+
+    
+}
+.Gallary {
+    width: 100%;
+    height: auto;
+    display: flex
+
+
+}
+.img1{
+    width: 43%;
+    height:400Px;
+   
+   
+    margin-left: 95px;
+}
+.img-2{
+    width: 50%;
+
+    height: 500px;
+  
+}
+.img-2 img{
+    margin-right: 35px;
+}
+
+.content-6{
+    width: 100%;
+    height: 300px;
+   
+    display: flex;
+}
+
+
+
+.left{
+    width: 50%;
+    height: 300px;
+    
+   
+
+}
+
+.right{
+    width: 50%;
+    height: 300px;
+    
+
+}
+.left span{
+    font-size: 2.25rem;
+    line-height: 2.6875rem;
+    letter-spacing: 0;
+    color: #00095b;
+    font-family:Ford Antenna Medium Cnd;
+    margin-left: 92px;
+
+}
+.left p{
+    font-size: medium;
+    margin-left: 92px;
+    margin-top: 37px;
+    font-family:Ford Antenna Medium Cnd;
+    color: #4d4d4d;
+   
+    
+
+}
+.left a{
+    margin-top: 41px;
+
+}
+.btn{
+    margin-top: 41px;
+}
+.right span{
+    font-size: 2.25rem;
+    line-height: 2.6875rem;
+    letter-spacing: 0;
+    color: #00095b;
+    font-family:Ford Antenna Medium Cnd;
+    margin-left: -12px;
+
+}
+.right p{
+    font-size: medium;
+    margin-left: -12px;
+    margin-top: 37px;
+    font-family:Ford Antenna Medium Cnd;
+    color: #4d4d4d;
+   
+    
+
+}
+.btn2{
+    /* width: 10px; */
+    /* height: 10px; */
+    margin-top: 50px;
+}
+.btn i{
+    margin-left: 0px;
+
+}
+
+.right p,i{
+    margin-top: 2px;
+}
+.content-7{
+    width: 100%;
+    height: auto;
+    margin-top: 10px
+}
+.content-7 span{
+    font-size: 2.25rem;
+    line-height: 2.6875rem;
+    letter-spacing: 0;
+    color: #00095b;
+    font-family:Ford Antenna Medium Cnd;
+    
+    padding-left: 95px;
+    
+    
+
+
+}
+.content-7 p{
+    font-size: medium;
+    margin-left: -12px;
+    margin-top: 37px;
+    font-family:Ford Antenna Medium Cnd;
+    color: #4d4d4d;
+    margin-top: 9px;
+    
+    margin-left: 95px;
+
+}
+.images{
+    width: 90%;
+    height: 485px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-left: 96px;
+
+}
+.pic{
+    width: 50%;
+   
+
+
+}
+.pic1{
+    width: 50%;
+
+}
+.pic2{
+    width: 50%;
+
+}
+.nul{
+    margin-left: -6px
+}
+
+.pic span{
+    font-size: 2.2rem;
+    line-height: 2.6875rem;
+    letter-spacing: 0;
+    color: #00095b;
+    font-family:Ford Antenna Medium Cnd;
+    margin-top:40px;
+}
+.pic p{
+    font-size: medium;
+    margin-top: 30px;
+   
+   
+    font-family:Ford Antenna Medium Cnd;
+    color: #4d4d4d;
+
+}
+
+
+.pic1 span{
+    font-size: 2.2rem;
+    line-height: 2.6875rem;
+    letter-spacing: 0;
+    color: #00095b;
+    font-family:Ford Antenna Medium Cnd;
+    margin-top:40px;
+
+}
+.pic1 p{
+    font-size: medium;
+    margin-top: 30px;
+   
+   
+    font-family:Ford Antenna Medium Cnd;
+    color: #4d4d4d;
+
+
+}
+.fek{
+    margin-top: 51px;
+}
+
+
+.content-8{
+    width: 100%;
+    height: 60px;
+    
+}
+
+.content-8 span{
+    
+    font-size: 2.2rem;
+    line-height: 2.6875rem;
+    letter-spacing: 0;
+    color: #00095b;
+    font-family:Ford Antenna Medium Cnd;
+    margin-left: 90px;
+
+}
+.content-8 p{
+    font-size: medium;
+    font-family:Ford Antenna Medium Cnd;
+    color: #4d4d4d;
+    margin-left: 90px;
+
+}
+
+.last-one{
+    width: 50%;
+    height: 600px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.inner-left{
+    width: 623px;
+    height: 647px;
+}
+.inner-right{
+    width: 623px;
+    height: 647px;
+}
+
+
+
+
 
 
     
