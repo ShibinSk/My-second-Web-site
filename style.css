@@ -517,6 +517,7 @@ width: 160px;
     color: white;
     display: flex;
     
+    
 }
 
 .search-icon{
@@ -532,6 +533,7 @@ width: 160px;
     height: 10px;
     width: 50px;
     display: flex;
+    
 
 
 }
@@ -543,8 +545,14 @@ width: 160px;
     border-color: #343434;
     color: white;
     border-radius: 10;
-    background: transparent;
-
+   
+}
+.ed{
+    border-bottom: beige;
+    border-left: azure;
+    border-right: azure;
+    border-top: azure;
+    font-size: 1.8rem;
 }
 
 .text{
